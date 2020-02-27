@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAnalysis", "CodeAnalysis\CodeAnalysis.csproj", "{DBA5211D-CDCC-4104-BC4C-0B6036CCCBDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA5211D-CDCC-4104-BC4C-0B6036CCCBDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA5211D-CDCC-4104-BC4C-0B6036CCCBDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA5211D-CDCC-4104-BC4C-0B6036CCCBDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA5211D-CDCC-4104-BC4C-0B6036CCCBDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1E6C50E-D7EF-4A66-A7CF-00C716AAF044}
+	EndGlobalSection
+EndGlobal
